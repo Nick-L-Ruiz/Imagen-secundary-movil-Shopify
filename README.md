@@ -19,4 +19,4 @@ listo, puedes ir a la personalzación de tu tema y al poner una imagen en image 
 
 Si tienes duda puedes visitar el siguiente articulo en el que muestro un paso a paso de lo que aqui describo.
 
-https://nicklruiz-ddweb.com/como-mostrar-diferentes-imagenes-de-banner-en-shopify-desktop-y-movil
+https://nicklruiz-ddweb.com/mostrar-diferentes-imagenes-de-banner-en-shopify
